@@ -55,3 +55,33 @@
 //     }
 // }
 
+
+
+// WHILE LOOP>>>>>>>>>>>>>>>>>>>>>
+
+// A while loop is a control statement that repeatedly 
+// executes a block of code as long as the given 
+// condition is true.
+
+
+
+// Print numbers from 1 to 20.
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     for(int i=20;i>=1;i--)
+// {
+//     cout<<i<<endl;
+// }}
+
+
+
+// Print numbers from 20 to 1. >>>
+// #include <iostream>
+// using namespace std;
+// int main(){
+//     for(int i=20;i>=1;i--)
+// {
+//     cout<<i<<endl;
+// }}
