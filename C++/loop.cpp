@@ -67,24 +67,23 @@
 
 // Print numbers from 1 to 20.
 
-// #include <iostream>
-// using namespace std;
-// int main(){
-//     for(int i=20;i>=1;i--)
-// {
-//     cout<<i<<endl;
-// }}
-
-
+#include <iostream>
+using namespace std;
+int main(){
+    for(int i=20;i>=1;i--)
+{
+    cout<<i<<endl;
+}}
 
 // Print numbers from 20 to 1. >>>
-// #include <iostream>
-// using namespace std;
-// int main(){
-//     for(int i=20;i>=1;i--)
-// {
-//     cout<<i<<endl;
-// }}
+
+#include <iostream>
+using namespace std;
+int main(){
+    for(int i=20;i>=1;i--)
+{
+    cout<<i<<endl;
+}}
 
 
 
