@@ -92,14 +92,53 @@
 
 // Print all even numbers from 1 to 100.
 
-#include <iostream>
-using namespace std;
-int main(){
-for(int i = 1; i<=100 ; i++)
-{
-if(i % 2==0)
-{
-    cout<<i<<endl;
-}
-}
-}
+// #include <iostream>
+// using namespace std;
+// int main(){
+// for(int i = 1; i<=100 ; i++)
+// {
+// if(i % 2==0)
+// {
+//     cout<<i<<endl;
+// }
+// }
+// }
+
+
+
+
+
+
+
+
+
+
+// WHILE LOOP>>>>>>......
+
+
+// #include <iostream>
+// using namespace std;
+// int main(){
+// int i = 1;
+// while(i<=10){
+//     cout<<i<<endl;
+//     i++;
+// }
+// }
+
+
+
+///DO WHILE LOOP >>>>>>>>>>>>>>>>
+
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int i =1;
+//     do{
+//         cout<<i<<endl;
+//         i++;
+//     }
+//     while(i<=50);
+//     return 0;
+// }
