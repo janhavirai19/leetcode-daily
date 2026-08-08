@@ -43,16 +43,53 @@
 
 
 
+// #include <iostream>
+// using namespace std;
+// bool isEven(int n){
+//     return n%2==0;
+// }
+// int main(){
+//     if(isEven(9)){
+// cout<<"Even";
+// }
+// else{
+//     cout<<"Odd";
+// }
+// }
+
+
+
+
+// #include <iostream>
+// using namespace std;
+// int findMax(int a ,int b){
+//     if (a>b){
+//         return a;
+//     }
+//     else{
+//         return b;
+//     }
+// }
+// int main (){
+// cout<<findMax(50,80);
+// }
+
+
+
+
+
 #include <iostream>
 using namespace std;
-bool isEven(int n){
-    return n%2==0;
+void findMin(int a ,int b){
+    if (a<b){
+        // return a;
+        cout<<"A is smaller";
+    }
+    else{
+        cout<<"B is smaller";
+    }
 }
-int main(){
-    if(isEven(9)){
-cout<<"Even";
+int main (){
+    findMin(50,80);
 }
-else{
-    cout<<"Odd";
-}
-}
+
